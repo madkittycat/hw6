@@ -1,0 +1,75 @@
+@import url('reset.css');
+
+.container {
+    width: 1200px;
+    margin: auto;
+    
+}
+
+.top{
+    width: 400px;
+    height: 400px;
+    background-color: aquamarine;
+    outline: 2px solid blue;
+    float: left;
+}
+
+.med {
+    width: 800px;
+    height: 200px;
+    background-color: lightcoral;
+    outline:  solid blue;
+    
+}
+
+.med2{
+    width: 400px;
+    height: 133px;
+    background-color: lightgray;    
+    outline: 2px solid blue;
+    
+}
+
+.bot {
+    width: 400px;
+    height: 400px;
+    background-color: lightseagreen;
+    float: left;
+    outline: 2px solid blue;
+}
+
+.bot1 {
+    width: 800px;
+    height: 200px;
+    background-color: lightskyblue;
+    float: right;
+    outline: 2px solid blue;
+}
+
+.bot2{
+    width: 400px;
+    height: 200px;
+    background-color: lime;
+    float: left;
+    outline: 2px solid blue;
+
+}
+
+.bot3{
+    width: 400px;
+    height: 100px;
+    background-color: lightyellow;
+    float: right;
+    outline: 2px solid blue;
+
+}
+.clearfix{
+    clear: both;
+}
+
+.float-right{
+    float: right;
+}
+    
+.float-left{
+    float: left;}
